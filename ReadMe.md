@@ -1,64 +1,72 @@
-# 👋 Olá, eu sou o Hyandro
+<h1 align="center">
+  👋 Fala aí, eu sou o Hyandro
+</h1>
 
-💻 Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas  
-🚀 Focado em criar projetos práticos, aprender na marra e evoluir como dev  
-📍 Brasil
+<h3 align="center">
+  Desenvolvedor em formação • ADS • Projetos práticos 🚀
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Criando+projetos+na+pr%C3%A1tica;Sempre+aprendendo+algo+novo" />
+</p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, jogos e desenvolvimento de projetos práticos.  
-Gosto de aprender fazendo, testar ideias novas e melhorar meus códigos a cada versão.
-
-Atualmente estou focado em:
-- Desenvolvimento Front-end
-- Lógica de programação
-- Projetos para portfólio
-- Boas práticas de código
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎮 Curto desenvolvimento de jogos e projetos interativos  
+📚 Aprendo fazendo e melhorando meus códigos a cada versão  
+📍 Brasil
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Tecnologias
 
-![HTML](https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-282828?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-282828?style=for-the-badge&logo=firebase)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,firebase" />
+</p>
 
 ---
 
-## 🚧 Projetos em Destaque
+## 🎮 Projeto em Destaque
 
-### 🎮 Mario Jump
-Um jogo simples desenvolvido em JavaScript para praticar lógica, colisões e controle de estados.
+<div align="center">
 
-🔗 **Repositório:** https://github.com/Hyandro/MarioJump  
-🌐 **Jogar online:** https://hyandro.github.io/MarioJump/
+### Mario Jump
 
-**Aprendizados:**
-- Manipulação do DOM
-- Controle de eventos
-- Game loop
-- Firebase para ranking
+Jogo desenvolvido em JavaScript para praticar lógica, colisões e controle de estados.
 
----
+🔗 Repositório: https://github.com/Hyandro/MarioJump  
+🌐 Jogue online: https://hyandro.github.io/MarioJump/
 
-## 📈 Objetivos
-
-- Criar projetos cada vez mais completos
-- Melhorar organização de código
-- Aprender frameworks modernos
-- Evoluir meu portfólio no GitHub
+</div>
 
 ---
 
-## 📫 Onde me encontrar
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hyandro&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hyandro&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Linguagens mais usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyandro&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contato
 
 - GitHub: https://github.com/Hyandro
 
 ---
 
-⭐ Se curtir algum projeto, não esquece de deixar uma estrela!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=100&section=footer"/>
+</p>
