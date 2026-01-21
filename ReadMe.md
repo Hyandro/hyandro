@@ -7,7 +7,19 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Criando+projetos+na+pr%C3%A1tica;Sempre+aprendendo+algo+novo" />
+  <img 
+    src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=18
+    &pause=1200
+    &color=00F7FF
+    &center=true
+    &vCenter=true
+    &width=720
+    &lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas
+    ;Criando+projetos+na+pr%C3%A1tica
+    ;Sempre+aprendendo+algo+novo" 
+  />
 </p>
 
 ---
