@@ -1,18 +1,64 @@
-# 💫 Sobre mim:
-💻 Estudante de Analise e Desenvolvimento de Sistemas<br>💼 Atualmente trabalhando na empresa: Águas do Rio
+# 👋 Olá, eu sou o Hyandro
 
-
-## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hyandro_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyandrophillipe/) 
-
-# 💻 Skills:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hyandro&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hyandro&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyandro&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💻 Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas  
+🚀 Focado em criar projetos práticos, aprender na marra e evoluir como dev  
+📍 Brasil
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hyandro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, jogos e desenvolvimento de projetos práticos.  
+Gosto de aprender fazendo, testar ideias novas e melhorar meus códigos a cada versão.
+
+Atualmente estou focado em:
+- Desenvolvimento Front-end
+- Lógica de programação
+- Projetos para portfólio
+- Boas práticas de código
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+![HTML](https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-282828?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-282828?style=for-the-badge&logo=firebase)
+
+---
+
+## 🚧 Projetos em Destaque
+
+### 🎮 Mario Jump
+Um jogo simples desenvolvido em JavaScript para praticar lógica, colisões e controle de estados.
+
+🔗 **Repositório:** https://github.com/Hyandro/MarioJump  
+🌐 **Jogar online:** https://hyandro.github.io/MarioJump/
+
+**Aprendizados:**
+- Manipulação do DOM
+- Controle de eventos
+- Game loop
+- Firebase para ranking
+
+---
+
+## 📈 Objetivos
+
+- Criar projetos cada vez mais completos
+- Melhorar organização de código
+- Aprender frameworks modernos
+- Evoluir meu portfólio no GitHub
+
+---
+
+## 📫 Onde me encontrar
+
+- GitHub: https://github.com/Hyandro
+
+---
+
+⭐ Se curtir algum projeto, não esquece de deixar uma estrela!
